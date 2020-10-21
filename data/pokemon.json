@@ -27240,6 +27240,9 @@
       "forms": {
         "$": {
           "is_prev_gen_icon": false
+        },
+        "gmax": {
+          "is_prev_gen_icon": false
         }
       }
     }
