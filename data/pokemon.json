@@ -27418,14 +27418,13 @@
           "is_alias_of": "$",
           "is_prev_gen_icon": false
         },
-        "gmax": {
+        "amped-gmax": {
           "is_prev_gen_icon": false
         },
         "low-key": {
           "is_prev_gen_icon": false
         },
         "low-key-gmax": {
-          "is_alias_of": "gmax",
           "is_prev_gen_icon": false
         }
       }
