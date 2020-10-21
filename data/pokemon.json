@@ -28744,14 +28744,17 @@
         "$": {
           "is_prev_gen_icon": false
         },
-        "gmax": {
+        "single-strike": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": false
+        },
+        "rapid-strike": {
           "is_prev_gen_icon": false
         },
         "rapid-strike-gmax": {
           "is_prev_gen_icon": false
         },
         "single-strike-gmax": {
-          "is_alias_of": "gmax",
           "is_prev_gen_icon": false
         }
       }
