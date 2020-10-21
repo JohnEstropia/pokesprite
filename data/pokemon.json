@@ -22894,15 +22894,15 @@
         "$": {
           "is_prev_gen_icon": true
         },
+        "small": {
+          "is_prev_gen_icon": true,
+          "is_unofficial_icon": true
+        },
         "average": {
           "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "large": {
-          "is_prev_gen_icon": true,
-          "is_unofficial_icon": true
-        },
-        "small": {
           "is_prev_gen_icon": true,
           "is_unofficial_icon": true
         },
@@ -22932,17 +22932,17 @@
           "has_female": false,
           "has_right": false
         },
+        "small": {
+          "has_female": false,
+          "has_right": false,
+          "is_unofficial_icon": true
+        },
         "average": {
           "has_female": false,
           "has_right": false,
           "is_alias_of": "$"
         },
         "large": {
-          "has_female": false,
-          "has_right": false,
-          "is_unofficial_icon": true
-        },
-        "small": {
           "has_female": false,
           "has_right": false,
           "is_unofficial_icon": true
@@ -24073,16 +24073,16 @@
           "has_female": false,
           "has_right": false
         },
-        "dusk": {
-          "has_female": false,
-          "has_right": false
-        },
         "midday": {
           "has_female": false,
           "has_right": false,
           "is_alias_of": "$"
         },
         "midnight": {
+          "has_female": false,
+          "has_right": false
+        },
+        "dusk": {
           "has_female": false,
           "has_right": false
         }
@@ -25486,11 +25486,11 @@
         "$": {
           "is_prev_gen_icon": false
         },
-        "busted": {
+        "disguised": {
           "is_alias_of": "$",
           "is_prev_gen_icon": false
         },
-        "disguised": {
+        "busted": {
           "is_alias_of": "$",
           "is_prev_gen_icon": false
         },
@@ -28747,13 +28747,13 @@
           "is_alias_of": "$",
           "is_prev_gen_icon": false
         },
+        "single-strike-gmax": {
+          "is_prev_gen_icon": false
+        },
         "rapid-strike": {
           "is_prev_gen_icon": false
         },
         "rapid-strike-gmax": {
-          "is_prev_gen_icon": false
-        },
-        "single-strike-gmax": {
           "is_prev_gen_icon": false
         }
       }
