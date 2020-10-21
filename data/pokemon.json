@@ -17443,6 +17443,9 @@
         "$": {
           "is_prev_gen_icon": false
         },
+        "zen": {
+          "is_prev_gen_icon": false
+        },
         "galar": {
           "is_prev_gen_icon": false
         },
@@ -17451,9 +17454,6 @@
         },
         "standard": {
           "is_alias_of": "$",
-          "is_prev_gen_icon": false
-        },
-        "zen": {
           "is_prev_gen_icon": false
         }
       }
@@ -20377,9 +20377,6 @@
           "is_prev_gen_icon": true
         },
         "shock": {
-          "is_prev_gen_icon": true
-        },
-        "standard": {
           "is_prev_gen_icon": true
         }
       }
