@@ -27541,6 +27541,9 @@
       "forms": {
         "$": {
           "is_prev_gen_icon": false
+        },
+        "antique": {
+          "is_prev_gen_icon": false
         }
       }
     }
@@ -27563,6 +27566,9 @@
     "gen-8": {
       "forms": {
         "$": {
+          "is_prev_gen_icon": false
+        },
+        "antique": {
           "is_prev_gen_icon": false
         }
       }
