@@ -25098,87 +25098,28 @@
         "$": {
           "is_prev_gen_icon": true
         },
-        "blue": {
-          "is_prev_gen_icon": true
-        },
-        "blue-gen7": {
-          "is_prev_gen_icon": true,
-          "is_unofficial_icon": true
-        },
-        "blue-meteor": {
+        "meteor": {
           "is_alias_of": "$",
-          "is_prev_gen_icon": true
         },
-        "green": {
-          "is_prev_gen_icon": true
-        },
-        "green-gen7": {
-          "is_alias_of": "blue-gen7",
-          "is_prev_gen_icon": true,
-          "is_unofficial_icon": true
-        },
-        "green-meteor": {
-          "is_alias_of": "$",
-          "is_prev_gen_icon": true
-        },
-        "indigo": {
-          "is_prev_gen_icon": true
-        },
-        "indigo-gen7": {
-          "is_alias_of": "blue-gen7",
-          "is_prev_gen_icon": true,
-          "is_unofficial_icon": true
-        },
-        "indigo-meteor": {
-          "is_alias_of": "$",
+        "red": {
           "is_prev_gen_icon": true
         },
         "orange": {
           "is_prev_gen_icon": true
         },
-        "orange-gen7": {
-          "is_alias_of": "blue-gen7",
-          "is_prev_gen_icon": true,
-          "is_unofficial_icon": true
-        },
-        "orange-meteor": {
-          "is_alias_of": "$",
-          "is_prev_gen_icon": true
-        },
-        "red": {
-          "is_prev_gen_icon": true
-        },
-        "red-gen7": {
-          "is_alias_of": "blue-gen7",
-          "is_prev_gen_icon": true,
-          "is_unofficial_icon": true
-        },
-        "red-meteor": {
-          "is_alias_of": "$",
-          "is_prev_gen_icon": true
-        },
-        "violet": {
-          "is_prev_gen_icon": true
-        },
-        "violet-gen7": {
-          "is_alias_of": "blue-gen7",
-          "is_prev_gen_icon": true,
-          "is_unofficial_icon": true
-        },
-        "violet-meteor": {
-          "is_alias_of": "$",
-          "is_prev_gen_icon": true
-        },
         "yellow": {
           "is_prev_gen_icon": true
         },
-        "yellow-gen7": {
-          "is_alias_of": "blue-gen7",
-          "is_prev_gen_icon": true,
-          "is_unofficial_icon": true
+        "green": {
+          "is_prev_gen_icon": true
         },
-        "yellow-meteor": {
-          "is_alias_of": "$",
+        "blue": {
+          "is_prev_gen_icon": true
+        },
+        "indigo": {
+          "is_prev_gen_icon": true
+        },
+        "violet": {
           "is_prev_gen_icon": true
         }
       }
