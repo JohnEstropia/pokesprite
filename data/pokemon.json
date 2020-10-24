@@ -20929,67 +20929,6 @@
       "forms": {
         "$": {
           "is_prev_gen_icon": true
-        },
-        "archipelago": {
-          "is_prev_gen_icon": true
-        },
-        "continental": {
-          "is_prev_gen_icon": true
-        },
-        "elegant": {
-          "is_prev_gen_icon": true
-        },
-        "fancy": {
-          "is_prev_gen_icon": true
-        },
-        "garden": {
-          "is_prev_gen_icon": true
-        },
-        "high-plains": {
-          "is_prev_gen_icon": true
-        },
-        "icy-snow": {
-          "is_prev_gen_icon": true
-        },
-        "jungle": {
-          "is_prev_gen_icon": true
-        },
-        "marine": {
-          "is_prev_gen_icon": true
-        },
-        "meadow": {
-          "is_prev_gen_icon": true,
-          "is_alias_of": "$"
-        },
-        "modern": {
-          "is_prev_gen_icon": true
-        },
-        "monsoon": {
-          "is_prev_gen_icon": true
-        },
-        "ocean": {
-          "is_prev_gen_icon": true
-        },
-        "poke-ball": {
-          "is_prev_gen_icon": true
-        },
-        "polar": {
-          "is_prev_gen_icon": true
-        },
-        "river": {
-          "is_prev_gen_icon": true
-        },
-        "sandstorm": {
-          "is_prev_gen_icon": true
-        },
-        "savanna": {
-          "is_prev_gen_icon": true
-        },
-        "sun": {
-          "is_prev_gen_icon": true
-        },
-        "tundra": {
-          "is_prev_gen_icon": true
         }
       }
     }
@@ -21118,67 +21057,6 @@
     "gen-8": {
       "forms": {
         "$": {
-          "is_prev_gen_icon": true
-        },
-        "archipelago": {
-          "is_prev_gen_icon": true
-        },
-        "continental": {
-          "is_prev_gen_icon": true
-        },
-        "elegant": {
-          "is_prev_gen_icon": true
-        },
-        "fancy": {
-          "is_prev_gen_icon": true
-        },
-        "garden": {
-          "is_prev_gen_icon": true
-        },
-        "high-plains": {
-          "is_prev_gen_icon": true
-        },
-        "icy-snow": {
-          "is_prev_gen_icon": true
-        },
-        "jungle": {
-          "is_prev_gen_icon": true
-        },
-        "marine": {
-          "is_prev_gen_icon": true
-        },
-        "meadow": {
-          "is_prev_gen_icon": true,
-          "is_alias_of": "$"
-        },
-        "modern": {
-          "is_prev_gen_icon": true
-        },
-        "monsoon": {
-          "is_prev_gen_icon": true
-        },
-        "ocean": {
-          "is_prev_gen_icon": true
-        },
-        "poke-ball": {
-          "is_prev_gen_icon": true
-        },
-        "polar": {
-          "is_prev_gen_icon": true
-        },
-        "river": {
-          "is_prev_gen_icon": true
-        },
-        "sandstorm": {
-          "is_prev_gen_icon": true
-        },
-        "savanna": {
-          "is_prev_gen_icon": true
-        },
-        "sun": {
-          "is_prev_gen_icon": true
-        },
-        "tundra": {
           "is_prev_gen_icon": true
         }
       }
