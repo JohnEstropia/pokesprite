@@ -20931,83 +20931,64 @@
           "is_prev_gen_icon": true
         },
         "archipelago": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "continental": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "elegant": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "fancy": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "garden": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "high-plains": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "icy-snow": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "jungle": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "marine": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "meadow": {
-          "is_alias_of": "$",
-          "is_prev_gen_icon": true
+          "is_prev_gen_icon": true,
+          "is_alias_of": "$"
         },
         "modern": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "monsoon": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "ocean": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "poke-ball": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "polar": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "river": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "sandstorm": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "savanna": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "sun": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "tundra": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         }
       }
@@ -21140,83 +21121,64 @@
           "is_prev_gen_icon": true
         },
         "archipelago": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "continental": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "elegant": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "fancy": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "garden": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "high-plains": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "icy-snow": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "jungle": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "marine": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "meadow": {
-          "is_alias_of": "$",
-          "is_prev_gen_icon": true
+          "is_prev_gen_icon": true,
+          "is_alias_of": "$"
         },
         "modern": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "monsoon": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "ocean": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "poke-ball": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "polar": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "river": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "sandstorm": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "savanna": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "sun": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "tundra": {
-          "is_alias_of": "$",
           "is_prev_gen_icon": true
         }
       }
@@ -27547,6 +27509,10 @@
         "$": {
           "is_prev_gen_icon": false
         },
+        "phony": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": false
+        },
         "antique": {
           "is_prev_gen_icon": false
         }
@@ -27571,6 +27537,10 @@
     "gen-8": {
       "forms": {
         "$": {
+          "is_prev_gen_icon": false
+        },
+        "phony": {
+          "is_alias_of": "$",
           "is_prev_gen_icon": false
         },
         "antique": {
