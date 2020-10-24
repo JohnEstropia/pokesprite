@@ -23286,6 +23286,11 @@
         "$": {
           "is_prev_gen_icon": true
         },
+        "confined": {
+          "is_alias_of": "$",
+          "has_female": false,
+          "has_right": false
+        },
         "unbound": {
           "is_prev_gen_icon": true
         }
