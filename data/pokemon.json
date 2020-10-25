@@ -4630,6 +4630,9 @@
       "forms": {
         "$": {
           "is_prev_gen_icon": false
+        },
+        "galar": {
+          "is_prev_gen_icon": false
         }
       }
     }
@@ -4659,6 +4662,9 @@
       "forms": {
         "$": {
           "is_prev_gen_icon": false
+        },
+        "galar": {
+          "is_prev_gen_icon": false
         }
       }
     }
@@ -4687,6 +4693,9 @@
     "gen-8": {
       "forms": {
         "$": {
+          "is_prev_gen_icon": false
+        },
+        "galar": {
           "is_prev_gen_icon": false
         }
       }
@@ -6254,6 +6263,9 @@
     "gen-8": {
       "forms": {
         "$": {
+          "is_prev_gen_icon": false
+        },
+        "galar": {
           "is_prev_gen_icon": false
         }
       }
