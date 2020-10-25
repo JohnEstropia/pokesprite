@@ -28697,10 +28697,10 @@
         "$": {
           "is_prev_gen_icon": false
         },
-        "ice-rider": {
+        "ice": {
           "is_prev_gen_icon": false
         },
-        "shadow-rider": {
+        "shadow": {
           "is_prev_gen_icon": false
         }
       }
