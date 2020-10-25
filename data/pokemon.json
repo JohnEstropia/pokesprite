@@ -28584,5 +28584,126 @@
         }
       }
     }
+  },
+  "894": {
+    "idx": "894",
+    "name": {
+      "eng": "Regieleki",
+      "chs": "雷吉艾勒奇",
+      "jpn": "レジエレキ",
+      "jpn_ro": "Regieleki"
+    },
+    "slug": {
+      "eng": "regieleki",
+      "jpn": "regieleki",
+      "jpn_ro": "regieleki"
+    },
+    "gen-7": {
+    },
+    "gen-8": {
+      "forms": {
+        "$": {
+          "is_prev_gen_icon": false
+        }
+      }
+    }
+  },
+  "895": {
+    "idx": "895",
+    "name": {
+      "eng": "Regidrago",
+      "chs": "雷吉鐸拉戈",
+      "jpn": "レジドラゴ",
+      "jpn_ro": "Regidrago"
+    },
+    "slug": {
+      "eng": "regidrago",
+      "jpn": "regidrago",
+      "jpn_ro": "regidrago"
+    },
+    "gen-7": {
+    },
+    "gen-8": {
+      "forms": {
+        "$": {
+          "is_prev_gen_icon": false
+        }
+      }
+    }
+  },
+  "896": {
+    "idx": "896",
+    "name": {
+      "eng": "Glastrier",
+      "chs": "雪暴馬",
+      "jpn": "ブリザポス",
+      "jpn_ro": "Burizaposu"
+    },
+    "slug": {
+      "eng": "glastrier",
+      "jpn": "glastrier",
+      "jpn_ro": "glastrier"
+    },
+    "gen-7": {
+    },
+    "gen-8": {
+      "forms": {
+        "$": {
+          "is_prev_gen_icon": false
+        }
+      }
+    }
+  },
+  "897": {
+    "idx": "897",
+    "name": {
+      "eng": "Spectrier",
+      "chs": "靈幽馬",
+      "jpn": "レイスポス",
+      "jpn_ro": "Reisuposu"
+    },
+    "slug": {
+      "eng": "spectrier",
+      "jpn": "spectrier",
+      "jpn_ro": "spectrier"
+    },
+    "gen-7": {
+    },
+    "gen-8": {
+      "forms": {
+        "$": {
+          "is_prev_gen_icon": false
+        }
+      }
+    }
+  },
+  "898": {
+    "idx": "898",
+    "name": {
+      "eng": "Calyrex",
+      "chs": "蕾冠王",
+      "jpn": "バドレックス",
+      "jpn_ro": "Budrex"
+    },
+    "slug": {
+      "eng": "calyrex",
+      "jpn": "calyrex",
+      "jpn_ro": "calyrex"
+    },
+    "gen-7": {
+    },
+    "gen-8": {
+      "forms": {
+        "$": {
+          "is_prev_gen_icon": false
+        },
+        "ice-rider": {
+          "is_prev_gen_icon": false
+        },
+        "shadow-rider": {
+          "is_prev_gen_icon": false
+        }
+      }
+    }
   }
 }
