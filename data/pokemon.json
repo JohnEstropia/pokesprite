@@ -4630,9 +4630,6 @@
       "forms": {
         "$": {
           "is_prev_gen_icon": false
-        },
-        "galar": {
-          "is_prev_gen_icon": false
         }
       }
     }
@@ -4662,9 +4659,6 @@
       "forms": {
         "$": {
           "is_prev_gen_icon": false
-        },
-        "galar": {
-          "is_prev_gen_icon": false
         }
       }
     }
@@ -4693,9 +4687,6 @@
     "gen-8": {
       "forms": {
         "$": {
-          "is_prev_gen_icon": false
-        },
-        "galar": {
           "is_prev_gen_icon": false
         }
       }
@@ -6263,9 +6254,6 @@
     "gen-8": {
       "forms": {
         "$": {
-          "is_prev_gen_icon": false
-        },
-        "galar": {
           "is_prev_gen_icon": false
         }
       }
@@ -17455,9 +17443,6 @@
         "$": {
           "is_prev_gen_icon": false
         },
-        "zen": {
-          "is_prev_gen_icon": false
-        },
         "galar": {
           "is_prev_gen_icon": false
         },
@@ -17466,6 +17451,9 @@
         },
         "standard": {
           "is_alias_of": "$",
+          "is_prev_gen_icon": false
+        },
+        "zen": {
           "is_prev_gen_icon": false
         }
       }
@@ -20390,6 +20378,9 @@
         },
         "shock": {
           "is_prev_gen_icon": true
+        },
+        "standard": {
+          "is_prev_gen_icon": true
         }
       }
     }
@@ -20941,6 +20932,86 @@
       "forms": {
         "$": {
           "is_prev_gen_icon": true
+        },
+        "archipelago": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "continental": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "elegant": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "fancy": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "garden": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "high-plains": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "icy-snow": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "jungle": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "marine": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "meadow": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "modern": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "monsoon": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "ocean": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "poke-ball": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "polar": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "river": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "sandstorm": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "savanna": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "sun": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "tundra": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
         }
       }
     }
@@ -21069,6 +21140,86 @@
     "gen-8": {
       "forms": {
         "$": {
+          "is_prev_gen_icon": true
+        },
+        "archipelago": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "continental": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "elegant": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "fancy": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "garden": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "high-plains": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "icy-snow": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "jungle": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "marine": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "meadow": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "modern": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "monsoon": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "ocean": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "poke-ball": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "polar": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "river": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "sandstorm": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "savanna": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "sun": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "tundra": {
+          "is_alias_of": "$",
           "is_prev_gen_icon": true
         }
       }
@@ -22746,15 +22897,15 @@
         "$": {
           "is_prev_gen_icon": true
         },
-        "small": {
-          "is_prev_gen_icon": true,
-          "is_unofficial_icon": true
-        },
         "average": {
           "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "large": {
+          "is_prev_gen_icon": true,
+          "is_unofficial_icon": true
+        },
+        "small": {
           "is_prev_gen_icon": true,
           "is_unofficial_icon": true
         },
@@ -22784,17 +22935,17 @@
           "has_female": false,
           "has_right": false
         },
-        "small": {
-          "has_female": false,
-          "has_right": false,
-          "is_unofficial_icon": true
-        },
         "average": {
           "has_female": false,
           "has_right": false,
           "is_alias_of": "$"
         },
         "large": {
+          "has_female": false,
+          "has_right": false,
+          "is_unofficial_icon": true
+        },
+        "small": {
           "has_female": false,
           "has_right": false,
           "is_unofficial_icon": true
@@ -23137,11 +23288,6 @@
       "forms": {
         "$": {
           "is_prev_gen_icon": true
-        },
-        "confined": {
-          "is_alias_of": "$",
-          "has_female": false,
-          "has_right": false
         },
         "unbound": {
           "is_prev_gen_icon": true
@@ -23930,16 +24076,16 @@
           "has_female": false,
           "has_right": false
         },
+        "dusk": {
+          "has_female": false,
+          "has_right": false
+        },
         "midday": {
           "has_female": false,
           "has_right": false,
           "is_alias_of": "$"
         },
         "midnight": {
-          "has_female": false,
-          "has_right": false
-        },
-        "dusk": {
           "has_female": false,
           "has_right": false
         }
@@ -25110,28 +25256,87 @@
         "$": {
           "is_prev_gen_icon": true
         },
-        "meteor": {
+        "blue": {
+          "is_prev_gen_icon": true
+        },
+        "blue-gen7": {
+          "is_prev_gen_icon": true,
+          "is_unofficial_icon": true
+        },
+        "blue-meteor": {
           "is_alias_of": "$",
-        },
-        "red": {
-          "is_prev_gen_icon": true
-        },
-        "orange": {
-          "is_prev_gen_icon": true
-        },
-        "yellow": {
           "is_prev_gen_icon": true
         },
         "green": {
           "is_prev_gen_icon": true
         },
-        "blue": {
+        "green-gen7": {
+          "is_alias_of": "blue-gen7",
+          "is_prev_gen_icon": true,
+          "is_unofficial_icon": true
+        },
+        "green-meteor": {
+          "is_alias_of": "$",
           "is_prev_gen_icon": true
         },
         "indigo": {
           "is_prev_gen_icon": true
         },
+        "indigo-gen7": {
+          "is_alias_of": "blue-gen7",
+          "is_prev_gen_icon": true,
+          "is_unofficial_icon": true
+        },
+        "indigo-meteor": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "orange": {
+          "is_prev_gen_icon": true
+        },
+        "orange-gen7": {
+          "is_alias_of": "blue-gen7",
+          "is_prev_gen_icon": true,
+          "is_unofficial_icon": true
+        },
+        "orange-meteor": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "red": {
+          "is_prev_gen_icon": true
+        },
+        "red-gen7": {
+          "is_alias_of": "blue-gen7",
+          "is_prev_gen_icon": true,
+          "is_unofficial_icon": true
+        },
+        "red-meteor": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
         "violet": {
+          "is_prev_gen_icon": true
+        },
+        "violet-gen7": {
+          "is_alias_of": "blue-gen7",
+          "is_prev_gen_icon": true,
+          "is_unofficial_icon": true
+        },
+        "violet-meteor": {
+          "is_alias_of": "$",
+          "is_prev_gen_icon": true
+        },
+        "yellow": {
+          "is_prev_gen_icon": true
+        },
+        "yellow-gen7": {
+          "is_alias_of": "blue-gen7",
+          "is_prev_gen_icon": true,
+          "is_unofficial_icon": true
+        },
+        "yellow-meteor": {
+          "is_alias_of": "$",
           "is_prev_gen_icon": true
         }
       }
@@ -25284,11 +25489,11 @@
         "$": {
           "is_prev_gen_icon": false
         },
-        "disguised": {
+        "busted": {
           "is_alias_of": "$",
           "is_prev_gen_icon": false
         },
-        "busted": {
+        "disguised": {
           "is_alias_of": "$",
           "is_prev_gen_icon": false
         },
@@ -27035,9 +27240,6 @@
       "forms": {
         "$": {
           "is_prev_gen_icon": false
-        },
-        "gmax": {
-          "is_prev_gen_icon": false
         }
       }
     }
@@ -27213,13 +27415,14 @@
           "is_alias_of": "$",
           "is_prev_gen_icon": false
         },
-        "amped-gmax": {
+        "gmax": {
           "is_prev_gen_icon": false
         },
         "low-key": {
           "is_prev_gen_icon": false
         },
         "low-key-gmax": {
+          "is_alias_of": "gmax",
           "is_prev_gen_icon": false
         }
       }
@@ -27339,13 +27542,6 @@
       "forms": {
         "$": {
           "is_prev_gen_icon": false
-        },
-        "phony": {
-          "is_alias_of": "$",
-          "is_prev_gen_icon": false
-        },
-        "antique": {
-          "is_prev_gen_icon": false
         }
       }
     }
@@ -27368,13 +27564,6 @@
     "gen-8": {
       "forms": {
         "$": {
-          "is_prev_gen_icon": false
-        },
-        "phony": {
-          "is_alias_of": "$",
-          "is_prev_gen_icon": false
-        },
-        "antique": {
           "is_prev_gen_icon": false
         }
       }
@@ -28555,17 +28744,14 @@
         "$": {
           "is_prev_gen_icon": false
         },
-        "single-strike": {
-          "is_alias_of": "$",
-          "is_prev_gen_icon": false
-        },
-        "single-strike-gmax": {
-          "is_prev_gen_icon": false
-        },
-        "rapid-strike": {
+        "gmax": {
           "is_prev_gen_icon": false
         },
         "rapid-strike-gmax": {
+          "is_prev_gen_icon": false
+        },
+        "single-strike-gmax": {
+          "is_alias_of": "gmax",
           "is_prev_gen_icon": false
         }
       }
@@ -28592,127 +28778,6 @@
           "is_prev_gen_icon": false
         },
         "dada": {
-          "is_prev_gen_icon": false
-        }
-      }
-    }
-  },
-  "894": {
-    "idx": "894",
-    "name": {
-      "eng": "Regieleki",
-      "chs": "雷吉艾勒奇",
-      "jpn": "レジエレキ",
-      "jpn_ro": "Regieleki"
-    },
-    "slug": {
-      "eng": "regieleki",
-      "jpn": "regieleki",
-      "jpn_ro": "regieleki"
-    },
-    "gen-7": {
-    },
-    "gen-8": {
-      "forms": {
-        "$": {
-          "is_prev_gen_icon": false
-        }
-      }
-    }
-  },
-  "895": {
-    "idx": "895",
-    "name": {
-      "eng": "Regidrago",
-      "chs": "雷吉鐸拉戈",
-      "jpn": "レジドラゴ",
-      "jpn_ro": "Regidrago"
-    },
-    "slug": {
-      "eng": "regidrago",
-      "jpn": "regidrago",
-      "jpn_ro": "regidrago"
-    },
-    "gen-7": {
-    },
-    "gen-8": {
-      "forms": {
-        "$": {
-          "is_prev_gen_icon": false
-        }
-      }
-    }
-  },
-  "896": {
-    "idx": "896",
-    "name": {
-      "eng": "Glastrier",
-      "chs": "雪暴馬",
-      "jpn": "ブリザポス",
-      "jpn_ro": "Burizaposu"
-    },
-    "slug": {
-      "eng": "glastrier",
-      "jpn": "glastrier",
-      "jpn_ro": "glastrier"
-    },
-    "gen-7": {
-    },
-    "gen-8": {
-      "forms": {
-        "$": {
-          "is_prev_gen_icon": false
-        }
-      }
-    }
-  },
-  "897": {
-    "idx": "897",
-    "name": {
-      "eng": "Spectrier",
-      "chs": "靈幽馬",
-      "jpn": "レイスポス",
-      "jpn_ro": "Reisuposu"
-    },
-    "slug": {
-      "eng": "spectrier",
-      "jpn": "spectrier",
-      "jpn_ro": "spectrier"
-    },
-    "gen-7": {
-    },
-    "gen-8": {
-      "forms": {
-        "$": {
-          "is_prev_gen_icon": false
-        }
-      }
-    }
-  },
-  "898": {
-    "idx": "898",
-    "name": {
-      "eng": "Calyrex",
-      "chs": "蕾冠王",
-      "jpn": "バドレックス",
-      "jpn_ro": "Budrex"
-    },
-    "slug": {
-      "eng": "calyrex",
-      "jpn": "calyrex",
-      "jpn_ro": "calyrex"
-    },
-    "gen-7": {
-    },
-    "gen-8": {
-      "forms": {
-        "$": {
-          "is_prev_gen_icon": false
-        },
-        "ice": {
-          "is_prev_gen_icon": false
-        },
-        "shadow": {
           "is_prev_gen_icon": false
         }
       }
